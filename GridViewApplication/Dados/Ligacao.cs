@@ -12,7 +12,7 @@ namespace GridViewApplication.Dados
         public static SqlConnection Criar()
         {
             string cs = ConfigurationManager
-                .ConnectionStrings["LigacaoBD"].ConnectionString;
+                .ConnectionStrings["Gestao_BibliotecaConnectionString1"].ConnectionString;
             return new SqlConnection(cs);
         }
     }

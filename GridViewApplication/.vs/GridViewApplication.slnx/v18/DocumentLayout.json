@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\rafav\\Desktop\\DEV\\Projetos\\Projetos Pessoais GitHub\\1-6.GridViewApplication\\GridViewApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{320AE725-92C4-462E-BF9B-7CA9E8831CFD}|GridViewApplication.csproj|c:\\users\\rafav\\desktop\\dev\\projetos\\projetos pessoais github\\1-6.gridviewapplication\\gridviewapplication\\testeligacao.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{320AE725-92C4-462E-BF9B-7CA9E8831CFD}|GridViewApplication.csproj|solutionrelative:testeligacao.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{320AE725-92C4-462E-BF9B-7CA9E8831CFD}|GridViewApplication.csproj|c:\\users\\rafav\\desktop\\dev\\projetos\\projetos pessoais github\\1-6.gridviewapplication\\gridviewapplication\\testeligacao.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{320AE725-92C4-462E-BF9B-7CA9E8831CFD}|GridViewApplication.csproj|solutionrelative:testeligacao.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{320AE725-92C4-462E-BF9B-7CA9E8831CFD}|GridViewApplication.csproj|c:\\users\\rafav\\desktop\\dev\\projetos\\projetos pessoais github\\1-6.gridviewapplication\\gridviewapplication\\dados\\ligacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{320AE725-92C4-462E-BF9B-7CA9E8831CFD}|GridViewApplication.csproj|solutionrelative:dados\\ligacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{320AE725-92C4-462E-BF9B-7CA9E8831CFD}|GridViewApplication.csproj|c:\\users\\rafav\\desktop\\dev\\projetos\\projetos pessoais github\\1-6.gridviewapplication\\gridviewapplication\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{320AE725-92C4-462E-BF9B-7CA9E8831CFD}|GridViewApplication.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320AE725-92C4-462E-BF9B-7CA9E8831CFD}|GridViewApplication.csproj|c:\\users\\rafav\\desktop\\dev\\projetos\\projetos pessoais github\\1-6.gridviewapplication\\gridviewapplication\\testeligacao.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320AE725-92C4-462E-BF9B-7CA9E8831CFD}|GridViewApplication.csproj|solutionrelative:testeligacao.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320AE725-92C4-462E-BF9B-7CA9E8831CFD}|GridViewApplication.csproj|c:\\users\\rafav\\desktop\\dev\\projetos\\projetos pessoais github\\1-6.gridviewapplication\\gridviewapplication\\dados\\biblioteca.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{320AE725-92C4-462E-BF9B-7CA9E8831CFD}|GridViewApplication.csproj|solutionrelative:dados\\biblioteca.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320AE725-92C4-462E-BF9B-7CA9E8831CFD}|GridViewApplication.csproj|c:\\users\\rafav\\desktop\\dev\\projetos\\projetos pessoais github\\1-6.gridviewapplication\\gridviewapplication\\testeligacao.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{320AE725-92C4-462E-BF9B-7CA9E8831CFD}|GridViewApplication.csproj|solutionrelative:testeligacao.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{320AE725-92C4-462E-BF9B-7CA9E8831CFD}|GridViewApplication.csproj|c:\\users\\rafav\\desktop\\dev\\projetos\\projetos pessoais github\\1-6.gridviewapplication\\gridviewapplication\\pagina\\principal.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -30,24 +34,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Biblioteca.dbml",
+              "DocumentMoniker": "C:\\Users\\rafav\\Desktop\\DEV\\Projetos\\Projetos Pessoais GitHub\\1-6.GridViewApplication\\GridViewApplication\\Dados\\Biblioteca.dbml",
+              "RelativeDocumentMoniker": "Dados\\Biblioteca.dbml",
+              "ToolTip": "C:\\Users\\rafav\\Desktop\\DEV\\Projetos\\Projetos Pessoais GitHub\\1-6.GridViewApplication\\GridViewApplication\\Dados\\Biblioteca.dbml",
+              "RelativeToolTip": "Dados\\Biblioteca.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2026-11-11T20:04:21.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TesteLigacao.aspx.cs",
               "DocumentMoniker": "C:\\Users\\rafav\\Desktop\\DEV\\Projetos\\Projetos Pessoais GitHub\\1-6.GridViewApplication\\GridViewApplication\\TesteLigacao.aspx.cs",
               "RelativeDocumentMoniker": "TesteLigacao.aspx.cs",
               "ToolTip": "C:\\Users\\rafav\\Desktop\\DEV\\Projetos\\Projetos Pessoais GitHub\\1-6.GridViewApplication\\GridViewApplication\\TesteLigacao.aspx.cs",
               "RelativeToolTip": "TesteLigacao.aspx.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-11T18:58:36.62Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "TesteLigacao.aspx",
               "DocumentMoniker": "C:\\Users\\rafav\\Desktop\\DEV\\Projetos\\Projetos Pessoais GitHub\\1-6.GridViewApplication\\GridViewApplication\\TesteLigacao.aspx",
               "RelativeDocumentMoniker": "TesteLigacao.aspx",
@@ -60,33 +76,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Ligacao.cs",
               "DocumentMoniker": "C:\\Users\\rafav\\Desktop\\DEV\\Projetos\\Projetos Pessoais GitHub\\1-6.GridViewApplication\\GridViewApplication\\Dados\\Ligacao.cs",
               "RelativeDocumentMoniker": "Dados\\Ligacao.cs",
               "ToolTip": "C:\\Users\\rafav\\Desktop\\DEV\\Projetos\\Projetos Pessoais GitHub\\1-6.GridViewApplication\\GridViewApplication\\Dados\\Ligacao.cs",
               "RelativeToolTip": "Dados\\Ligacao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-11T18:53:37.552Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\rafav\\Desktop\\DEV\\Projetos\\Projetos Pessoais GitHub\\1-6.GridViewApplication\\GridViewApplication\\Web.config",
               "RelativeDocumentMoniker": "Web.config",
               "ToolTip": "C:\\Users\\rafav\\Desktop\\DEV\\Projetos\\Projetos Pessoais GitHub\\1-6.GridViewApplication\\GridViewApplication\\Web.config",
               "RelativeToolTip": "Web.config",
-              "ViewState": "AgIAABIAAADAvNALvdATwAYAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2026-11-11T18:45:59.629Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Principal.html",
               "DocumentMoniker": "C:\\Users\\rafav\\Desktop\\DEV\\Projetos\\Projetos Pessoais GitHub\\1-6.GridViewApplication\\GridViewApplication\\Pagina\\Principal.html",
               "RelativeDocumentMoniker": "Pagina\\Principal.html",
